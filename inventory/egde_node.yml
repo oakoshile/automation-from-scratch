@@ -1,0 +1,7 @@
+---
+# This is the list of nodes in this practice
+SITE1:
+  children:
+      ansible_host:
+          egde_rt1:
+          egde_rt2:
