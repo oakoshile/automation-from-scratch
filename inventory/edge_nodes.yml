@@ -1,0 +1,6 @@
+    S1:
+      children:
+        EDGE_RT:
+          hosts:
+            edge_rt1:
+            edge_rt2:
